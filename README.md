@@ -26,7 +26,8 @@ https://github.com/coffeetechnz/web-developer-job-test/blob/main/aica-gold-2020-
 
 1. Implement a web page based on the design example, you do NOT have to be “pixel perfect”. Be innovative and creative.
 2. Responsive web design. The site needs to fit to the different size of the user’s screen, like desktop and mobile phone. 
-3. Add to Cart section. You need to demonstrate add to cart function in your design.
+3. Add to Cart section. You need to demonstrate add to cart function in your design. Add a mini popup cart at right top cornor to show "the product image", "the product name", "the price of product", "the quality of product", and "the total price of product". 
+4. The duration of this test is 5 hours.
 
 ## Completion and Submission
 
