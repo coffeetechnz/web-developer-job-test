@@ -31,4 +31,4 @@ https://github.com/coffeetechnz/web-developer-job-test/blob/main/aica-gold-2020-
 
 ## Completion and Submission
 
-You can clone, fork, or create a Github repository for this code test. Commit all files include source files for any code you compiled e.g. css preprocessor files. Send the link of the Github repository to jobs@coffee-tech.co.nz with subject "Github sumbit [YOUR NAME]" once you have completed the test. There is no strict limit on the duration of this test, but we would not want you to spend more than 5 hours on this. If you go over 5 hours, feel free to stop and just commit all the code you have got.
+You can clone, fork, or create a Github repository for this code test. Commit all files include source files for any code you compiled e.g. css preprocessor files. Send the link of the Github repository to jobs@coffee-tech.co.nz with subject "Github submit [YOUR NAME]" once you have completed the test. There is no strict limit on the duration of this test, but we would not want you to spend more than 5 hours on this. If you go over 5 hours, feel free to stop and just commit all the code you have got.
